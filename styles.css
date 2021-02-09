@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=B612+Mono:ital@1&display=swap');
+
+
+
+body{
+    background-color: #f4f4f4;
+    font-family: 'B612 Mono', monospace;
+    /* letter-spacing: 0.1em; */
+}
+
+.container{
+    max-width: 620px;
+    
+}
+
+.container h1{
+    color: rgb(53, 47, 47);
+}
+
+.btn{
+    background-color: violet;
+    color: white;
+    box-shadow: none !important;
+    outline: none !important;
+
+}
+
+.btn:hover{
+    color: violet;
+    background-color: white;
+    outline: none !important;
+}
+
+.username{
+    font-weight: bold;
+}
+
+.time{
+    font-size: 0.9em;
+    color: #999;
+}
